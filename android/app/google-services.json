@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944551915371",
+    "project_id": "raja-5888d",
+    "storage_bucket": "raja-5888d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944551915371:android:b2cab454d204f7fcabe62e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944551915371-vjnroguafsg6ctd359lr2snrf8d4ia1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_yvstMO_T0W9PFtFY79k5M5RiDwL93M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944551915371-vjnroguafsg6ctd359lr2snrf8d4ia1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
